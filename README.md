@@ -1,7 +1,10 @@
 # hermes-core-flow
 
-[EN] Standardized core development flow for Hermes & OpenClaw agents.
-[繁中] Hermes 與 OpenClaw 代理的標準化核心開發工作流。
+![hermes-core-flow-banner](assets/banner.jpg)
+
+[EN] Standardized core development flow for Hermes & OpenClaw agents. Includes CaMeL security boundaries and cloud-ready deployment templates.
+
+[繁中] Hermes 與 OpenClaw 代理的標準化核心開發工作流。包含 CaMeL 安全邊界與雲端部署模板。
 
 ## Quick Start
 1. git clone https://github.com/Cheerhuan/hermes-core-flow

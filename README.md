@@ -1,5 +1,9 @@
 # hermes-core-flow
 
+Standardized via Hermes Agent Template
+
+# hermes-core-flow
+
 ![hermes-core-flow-banner](assets/banner.jpg)
 
 [EN] Standardized core development flow for Hermes & OpenClaw agents. Includes CaMeL security boundaries and cloud-ready deployment templates.
